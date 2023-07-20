@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.capitals-app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  background-size: cover;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 100px;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+}
+.select-container {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 550;
+}
+
+.label-element {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+  margin-left: 10px;
+}
+
+.country-name {
+  text-align: start;
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: 500;
+}
